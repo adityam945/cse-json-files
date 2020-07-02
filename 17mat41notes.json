@@ -1,0 +1,23 @@
+[
+  {
+    "branchname":"Computer Science Engineering",
+    "semno":"4",
+    "subjname":"ENGINEERING MATHEMATICS-IV",
+    "subjcode":"17MAT41",
+    "valuename":"notes-NO added url",
+    "notesdata": [
+      {
+        "notesname":"Module1",
+        "notesurl":""
+      },
+      {
+        "notesname":"module2",
+        "notesurl":""
+      },
+            {
+        "notesname":"module3",
+        "notesurl":""
+      }
+    ]
+  }
+]
