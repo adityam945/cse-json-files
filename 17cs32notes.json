@@ -1,0 +1,23 @@
+[
+  {
+    "branchname":"Computer Science Engineering",
+    "semno":"3",
+    "subjname":"ANALOG AND DIGITAL ELECTRONICS",
+    "subjcode":"17CS32",
+    "valuename":"notes-NO added url",
+    "notesdata": [
+      {
+        "notesname":"Module1",
+        "notesurl":""
+      },
+      {
+        "notesname":"module2",
+        "notesurl":""
+      },
+            {
+        "notesname":"module3",
+        "notesurl":""
+      }
+    ]
+  }
+]
