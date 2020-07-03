@@ -1,0 +1,61 @@
+[
+  {
+    "beanchname": "Computer Science Engineering",
+    "semdata": [
+      {
+        "id": "1890",
+        "disabled": "disabled",
+        "semname": "Sem 3",
+        "labno": "2",
+        "subjno": "6",
+        "subj1": "Engineering Mathematics–III",
+        "subj2": "ANALOG AND DIGITAL ELECTRONICS",
+        "subj3": "DATA STRUCTURES AND APPLICATIONS",
+        "subj4": "COMPUTER ORGANIZATION",
+        "subj5": "UNIX AND SHELL PROGRAMMING",
+        "subj6": "DISCRETE MATHEMATICAL STRUCTURES",
+        "labname1": "ANALOG AND DIGITAL ELECTRONICS LABORATORY",
+        "labname2a": "DATA STRUCTURES LABORATORY",
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/cse-json-files/",
+        "syllabusscreenparams": "csesem3syllabus.json",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenparams": "csesem3notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "",
+        "qbscreenparams": ""
+      },
+      {
+        "id": "2540",
+        "disabled": "disabled",
+        "semname": "Sem 4",
+        "labno": "2",
+        "subjno": "6",
+        "subj1": "Engineering Mathematics–4",
+        "subj2": "OBJECT ORIENTED CONCEPTS",
+        "subj3": "DESIGN AND ANALYSIS OF ALGORITHMS",
+        "subj4": "MICRO-PROCESSORS AND  MICRO- CONTROLLERS",
+        "subj5": "SOFTWARE ENGINEERING",
+        "subj6": "DATA COMMUNICATION",
+        "labname1": "DESIGN AND ANALYSIS OF ALGORITHM LABORATORY",
+        "labname2": "MICROPROCESSOR AND MICROCONTROLLER LABORATORY",
+        "syllabusscreentype": "SyllabusFile",
+        "syllabusurl": "https://adityam945.github.io/cse-json-files/",
+        "syllabusscreenparams": "",
+        "notesscreentype": "NotesListSubjFile",
+        "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenparams": "csesem4notes.json",
+        "qpscreentype": "QPaperListSubjsFile",
+        "qpurl": "",
+        "qpscreenparams": "",
+        "qbscreentype": "QBankListSubjsFile",
+        "qburl": "",
+        "qbscreenparams": ""
+      }
+    ]
+  }
+]
