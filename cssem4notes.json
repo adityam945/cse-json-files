@@ -1,0 +1,41 @@
+[
+  {
+    "branchname": "Computer Science Engineering",
+    "semno": "",
+    "valuename": "notes",
+    "semdata": [
+      {
+        "semno": "4",
+        "subjdata": [
+          {
+            "id": "1567",
+            "disabled": "disabled",
+            "subjname": "Engineering Mathematics-4",
+            "subjcode": "17MAT41",
+            "notesurl": "https://adityam945.github.io/cse-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17mat41notes.json"
+          },
+          {
+            "id": "8907",
+            "disabled": "disabled",
+            "subjname": "OBJECT ORIENTED CONCEPTS",
+            "subjcode": "17ME42",
+            "notesurl": "https://adityam945.github.io/cse-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17me42notes.json"
+          },
+          {
+            "id": "7865",
+            "disabled": "disabled",
+            "subjname": "DESIGN AND ANALYSIS OF ALGORITHMS",
+            "subjcode": "17ME43",
+            "notesurl": "https://adityam945.github.io/cse-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17me43notes.json"
+          }
+        ]
+      }
+    ]
+  }
+]
