@@ -14,8 +14,8 @@
     "sub4code": "17CS34",
     "subj5": "UNIX AND SHELL PROGRAMMING",
     "sub5code": "17CS35",
-    "subj6": "Machine Tools And Operation",
-    "sub6code": "17ME35B /45B",
+    "subj6": "DISCRETE MATHEMATICAL STRUCTURES",
+    "sub6code": "17CS36",
 
     "labname1": "MATERIALS TESTING LAB",
     "lab1code": "17MEL37A",
@@ -230,8 +230,8 @@
     "subj6data": [
       {
         "_id": "5ed6619726a0e62580ac6dc8",
-        "subcode": "17CS33",
-        "subname": "ANALOG AND DIGITAL ELECTRONICS",
+        "subcode": "17CS35",
+        "subname": "DISCRETE MATHEMATICAL STRUCTURES",
         "moduledesc": [
           {
             "m": "Module 1",
