@@ -1,0 +1,53 @@
+[
+  {
+    "semno": "3",
+    "branchname": "Computer Science Engineering",
+    "subjno": "6",
+    "labno": "2",
+    "subj1": "Engineering Mathematics - III",
+    "sub1code": "17MAT31",
+    "subjwisedata": [
+      {
+        "subj1data": [
+          {
+            "_id": "5ed6619726a0e62580ac6dc8",
+            "subcode": "17MAT31",
+            "subname": "ENGINEERING MATHEMATICS-III",
+            "moduledesc":[{
+              "m": "Module 1",
+            "mdesc": "Fourier Series:\n Periodic functions, Dirichlet’s condition, Fourier Series of periodic functions with period 2π and with arbitrary period 2c. Fourier series of even and odd functions. Half range Fourier Series, practical harmonic analysis-Illustrative examples from engineering field."
+            },
+            {
+              "m": "Module 2",
+              "mdesc": "Fourier Transforms:\n Infinite Fourier transforms, Fourier sine and cosine transforms. Inverse Fouriertransform.\n\nZ-transform:\n Difference equations, basic definition, z-transform-definition, Standard z-transforms,Damping rule, Shifting rule, Initial value and final value theorems (without proof) and problems,Inverse z-transform. Applications of z-transforms to solve difference equations."  
+            },{
+              "m": "Module 3",
+              "mdesc": "Statistical Methods:\n Review of measures of central tendency and dispersion. Correlation-KarlPearson’s coefficient of correlation-problems. Regression analysis- lines of regression (withoutproof) –problems\n\nCurve Fitting:\n Curve fitting by the method of least squares- fitting of the curves of the form,\n y = ax+ b, y = ax2\n+ bx + c and y = aebx.\n\nNumerical Methods:\n Numerical solution of algebraic and transcendental equations by Regula- FalsiMethod and Newton-Raphson method."  
+            },
+            {
+              "m": "Module 4",
+              "mdesc": "Finite differences:\n Forward and backward differences, Newton’s forward and backward interpolation formulae. Divided differences- Newton’s divided difference formula. Lagrange’s interpolation formula and inverse interpolation formula (all formulae without proof)-Problems.\n\nNumerical integration:\n Simpson’s (1/3)th and (3/8)th rules, Weddle’s rule (without proof ) –Problems."  
+            },
+            {
+              "m": "Module 5",
+              "mdesc": "Vector integration:\n Line integrals-definition and problems, surface and volume integrals-definition,Green’s theorem in a plane, Stokes and Gauss-divergence theorem(without proof) and problems.\n\nCalculus of Variations:\n Variation of function and Functional, variational problems. Euler’s equation, Geodesics, hanging chain, problems."  
+            }
+          ],
+            "descname": "Prescribed Text books",
+            "descdata": "Text Books:\n1. B. S. Grewal, Higher Engineering Mathematics, Khanna publishers, 42nd edition, 2013.\n2. B.V. Ramana Higher Engineering Mathematics Tata McGraw-Hill,2006.\n\nReference Books:\n1. N. P. Bali and Manish Goyal, A text book of Engineering mathematics , Laxmi publications, latestedition.\n2. Kreyszig, Advanced Engineering Mathematics  - 9th edition, Wiley.\n3. H. K Dass and Er. Rajnish Verma ,Higher Engineering Mathematics, S. Chand, 1st ed.",
+            "notesurl": "https://adityam945.github.io/cse-json-files/",
+            "notesscreenname": "NotesListFile",
+            "notesscreenparams": "17mat31notes.json",
+            "qpscreentype": "QPaperListFile",
+            "qpurl": "https://adityam945.github.io/cse-json-files/",
+            "qpscreenparams": "17mat31qp.json",
+            "qbscreentype": "QBankListFile",
+            "qburl": "https://adityam945.github.io/cse-json-files/",
+            "qbscreenparams": "17mat31qb.json"
+          }
+        ]
+        
+      }
+    ]
+  }
+]
