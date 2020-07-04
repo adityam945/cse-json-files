@@ -14,5 +14,12 @@
     "m5desc": "Sampling Theory: \n Sampling, Sampling distributions, standard error, test of hypothesis for means and proportions, confidence limits for means, student’s t-distribution, Chisquare distribution as a test of goodness of fit.\n\n Stochastic process:\n Stochastic process, probability vector, stochastic matrices, fixed points, regular stochastic matrices, Markov chains, higher transition probability",
     "descname": "Prescribed text books",
     "descdata": "Text  Books:\n 1. B.V.Ramana Higher Engineering Mathematics Tata McGraw-Hill, 2006. \n2. B. S. Grewal,” Higher Engineering Mathematics”, Khanna publishers, 42nd edition, 2013. \n\n Reference Books:\n 1. N P  Bali  and Manish Goyal, A text book of  Engineering mathematics , Laxmi publications, latest edition. \n 2. Kreyszig,  Advanced Engineering Mathematics   -   9th edition,   Wiley, 2013.\n 3. H. K Dass and Er. RajnishVerma, Higher Engineering Mathematics,   S. Chand, 1st ed, 2011.  ",
-    "__v": 0
+    "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat41notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat41qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat41qb.json"
   }]
