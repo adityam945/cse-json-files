@@ -45,7 +45,7 @@
         "labname2": "MICROPROCESSOR AND MICROCONTROLLER LABORATORY",
         "syllabusscreentype": "SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/cse-json-files/",
-        "syllabusscreenparams": "",
+        "syllabusscreenparams": "cssem4subjlist.json",
         "notesscreentype": "NotesListSubjFile",
         "notesurl": "https://adityam945.github.io/cse-json-files/",
         "notesscreenparams": "cssem4notes.json",
