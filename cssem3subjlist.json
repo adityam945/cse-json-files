@@ -20,22 +20,22 @@
       {
         "subj": "DATA STRUCTURES AND APPLICATIONS",
         "subcode": "17CS33",
-        "subjparams": "17ae33syllabus.json"
+        "subjparams": "17cs33syllabus.json"
       },
       {
         "subj": "COMPUTER ORGANIZATION",
         "subcode": "17CS34",
-        "subjparams": "17me34syllabus.json"
+        "subjparams": "17cs34syllabus.json"
       },
       {
         "subj": "UNIX AND SHELL PROGRAMMING",
         "subcode": "17CS35",
-        "subjparams": "17me35a45asyllabus.json"
+        "subjparams": "17cs35a45asyllabus.json"
       },
       {
         "subj": "DISCRETE MATHEMATICAL STRUCTURES",
         "subcode": "17CS36",
-        "subjparams": "17me35b45bsyllabus.json"
+        "subjparams": "17cs35b45bsyllabus.json"
       },
       {
         "subj": "FOUNDRY AND FORGING LAB",
