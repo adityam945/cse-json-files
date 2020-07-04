@@ -18,23 +18,23 @@
         "subjparams": "17cs32syllabus.json"
       },
       {
-        "subj3": "DATA STRUCTURES AND APPLICATIONS",
-        "sub3code": "17CS33",
+        "subj": "DATA STRUCTURES AND APPLICATIONS",
+        "subcode": "17CS33",
         "subjparams": "17ae33syllabus.json"
       },
       {
         "subj4": "COMPUTER ORGANIZATION",
-        "sub4code": "17CS34",
+        "subcode": "17CS34",
         "subjparams": "17me34syllabus.json"
       },
       {
         "subj5": "UNIX AND SHELL PROGRAMMING",
-        "sub5code": "17CS35",
+        "subcode": "17CS35",
         "subjparams": "17me35a45asyllabus.json"
       },
       {
         "subj6": "DISCRETE MATHEMATICAL STRUCTURES",
-        "sub6code": "17CS36",
+        "subcode": "17CS36",
         "subjparams": "17me35b45bsyllabus.json"
       },
       {
