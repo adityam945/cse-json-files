@@ -1,0 +1,18 @@
+[{
+      "_id": "5ed67c6626a0e62580ac6dca",
+      "subcode": "17CS32",
+      "subname": "ANALOG AND DIGITAL ELECTRONICS",
+      "m1": "Module 1",
+      "m1desc": "Field Effect Transistors:\n Junction Field Effect Transistors, MOSFETs, Differences between JFETs and MOSFETs, Biasing MOSFETs, FET Applications, CMOS Devices.\n\n Wave-Shaping Circuits:\n Integrated Circuit(IC) Multivibrators.\n\n Introduction to Operational Amplifier:\n Ideal v/s practical Opamp, Performance Parameters.\n\n Operational Amplifier Application Circits:\n Peak Detector Circuit, Comparator, Active Filters, Non-Linear Amplifier, Relaxation Oscillator, Current-ToVoltage Converter, Voltage-To-Current Converter.",
+      "m2": "Module 2",
+      "m2desc": "The Basic Gates:\n Review of Basic Logic gates, Positive and Negative Logic, Introduction to HDL.\n\n Combinational Logic Circuits:\n Sum-of-Products Method, Truth Table to Karnaugh Map, Pairs Quads, and Octets, Karnaugh Simplifications, Don’t-care Conditions, Product-of-sums Method, Product-of-sums simplifications, Simplification by Quine-McClusky Method, Hazards and Hazard covers, HDL Implementation Models.",
+      "m3": "Module 3",
+      "m3desc": "Data-Processing Circuits:\n Multiplexers, Demultiplexers, 1-of-16 Decoder, BCD to Decimal Decoders, Seven Segment Decoders, Encoders, Exclusive-OR Gates, Parity Generators and Checkers, Magnitude Comparator, Programmable Array Logic, Programmable Logic Arrays, HDL Implementation of Data Processing Circuits. Arithmetic Building Blocks,\n\n Arithmetic Logic Unit Flip- Flops:\n RS Flip-Flops, Gated Flip-Flops, Edge-triggered RS FLIP-FLOP, Edge-triggered D FLIP-FLOPs, Edge-triggered JK FLIP-FLOPs. ",
+      "m4": "Module 4",
+      "m4desc": "Flip- Flops:\n FLIP-FLOP Timing, JK Master-slave FLIP-FLOP, Switch Contact Bounce Circuits, Various Representation of FLIP-FLOPs, HDL Implementation of FLIP-FLOP.\n\n Registers:\n Types of Registers, Serial In - Serial Out, Serial In - Parallel out, Parallel In - Serial Out, Parallel In - Parallel Out, Universal Shift Register, Applications of Shift Registers, Register implementation in HDL.\n\n Counters:\n Asynchronous Counters, Decoding Gates, Synchronous Counters, Changing the Counter Modulus.    ",
+      "m5": "Module 5",
+      "m5desc": "Counters:\n Decade Counters, Presettable Counters, Counter Design as a Synthesis problem, A Digital Clock, Counter Design using HDL.\n\n D/A Conversion and A/D Conversion:\n Variable, Resistor Networks, Binary Ladders, D/A Converters, D/A Accuracy and Resolution, A/D ConverterSimultaneous Conversion, A/D Converter-Counter Method, Continuous A/D Conversion, A/D Techniques, Dual-slope A/D Conversion, A/D Accuracy and Resolution. ",
+      "descname": "Prescribed text books",
+      "descdata": "Text Books:\n 1. Anil K Maini, Varsha Agarwal: Electronic Devices and Circuits, Wiley, 2012.\n 2. Donald P Leach, Albert Paul Malvino & Goutam Saha: Digital Principles and Applications, 8th Edition, Tata McGraw Hill, 2015\n\n Reference Books:\n 1. Stephen Brown, Zvonko Vranesic: Fundamentals of Digital Logic Design with VHDL, 2nd Edition, Tata McGraw Hill, 2005.\n 2. R D Sudhaker Samuel: Illustrative Approach to Logic Design, Sanguine-Pearson, 2010.\n 3. M Morris Mano: Digital Logic and Computer Design, 10th Edition, Pearson, 2008.",
+      "__v": 0
+  }]
