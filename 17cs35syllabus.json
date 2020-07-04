@@ -14,5 +14,15 @@
       "m5desc": "Meaning of a process. Mechanism of process creation. Parent and child process. The ps command with its options. Executing a command at a specified point of time: at command. Executing a command periodically: cron command and the crontab file.. Signals. The nice and nohup commands. Background processes. The bg and fg command. The kill command. The find command with illustrative example. \n\n  Structure of a perl script. Running a perl script. Variables and operators. String handling functions. Default variables - $_ and $. – representing the current line and current line number. The range operator. Chop() and chomp() functions. Lists and arrays. The @- variable. The splice operator, push(), pop(), split() and join(). File handles and handling file – using open(), close() and die () functions.. Associative arrays – keys and value functions. Overview of decision making loop control structures – the foreach. Regular expressions – simple and multiple search patterns. The match and substitute operators.  Defining and using subroutines.",
       "descname": "Prescribed text books",
       "descdata": "Text  Books: \n1. Sumitabha Das., Unix Concepts and Applications., 4th Edition., Tata McGraw Hill  \n2. Behrouz A. Forouzan, Richard F. Gilberg : UNIX and Shell Programming- Cengage Learning – India Edition.  2009.\n\n Reference Books:  \n 1. M.G. Venkatesh Murthy: UNIX & Shell Programming, Pearson Education. \n2. Richard Blum , Christine Bresnahan : Linux Command Line and Shell Scripting Bible, 2ndEdition , Wiley,2014. ",
-      "__v": 0
+              "descname": "Prescribed Text books",
+        "descdata": "Text Books:\n1. B. S. Grewal, Higher Engineering Mathematics, Khanna publishers, 42nd edition, 2013.\n2. B.V. Ramana Higher Engineering Mathematics Tata McGraw-Hill,2006.\n\nReference Books:\n1. N. P. Bali and Manish Goyal, A text book of Engineering mathematics , Laxmi publications, latestedition.\n2. Kreyszig, Advanced Engineering Mathematics  - 9th edition, Wiley.\n3. H. K Dass and Er. Rajnish Verma ,Higher Engineering Mathematics, S. Chand, 1st ed.",
+        "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat31notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat31qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat31qb.json"
   }]
