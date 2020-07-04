@@ -15,5 +15,15 @@
       "m5desc": "Vector integration:\n Line integrals-definition and problems, surface and volume integrals-definition,Green’s theorem in a plane, Stokes and Gauss-divergence theorem(without proof) and problems.\n\nCalculus of Variations:\n Variation of function and Functional, variational problems. Euler’s equation, Geodesics, hanging chain, problems.",
       "descname": "Prescribed Text books",
       "descdata": "Text Books:\n1. B. S. Grewal, Higher Engineering Mathematics, Khanna publishers, 42nd edition, 2013.\n2. B.V. Ramana Higher Engineering Mathematics Tata McGraw-Hill,2006.\n\nReference Books:\n1. N. P. Bali and Manish Goyal, A text book of Engineering mathematics , Laxmi publications, latestedition.\n2. Kreyszig, Advanced Engineering Mathematics  - 9th edition, Wiley.\n3. H. K Dass and Er. Rajnish Verma ,Higher Engineering Mathematics, S. Chand, 1st ed.",
-      "__v": 0
+              "descname": "Prescribed Text books",
+        "descdata": "Text Books:\n1. B. S. Grewal, Higher Engineering Mathematics, Khanna publishers, 42nd edition, 2013.\n2. B.V. Ramana Higher Engineering Mathematics Tata McGraw-Hill,2006.\n\nReference Books:\n1. N. P. Bali and Manish Goyal, A text book of Engineering mathematics , Laxmi publications, latestedition.\n2. Kreyszig, Advanced Engineering Mathematics  - 9th edition, Wiley.\n3. H. K Dass and Er. Rajnish Verma ,Higher Engineering Mathematics, S. Chand, 1st ed.",
+        "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat31notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat31qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat31qb.json"
   }]
