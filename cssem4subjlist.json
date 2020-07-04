@@ -1,0 +1,52 @@
+[
+  {
+    "semno": "Semester 4",
+    "branchname": "Computer Science Engineering",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "ENGINEERING MATHEMATICS-IV",
+        "subjcode": "17MAT41",
+        "subjparams": "17mat41syllabus.json"
+      },
+      {
+        "subj": "OBJECT ORIENTED CONCEPTS",
+        "subcode": "17CS42",
+        "subjparams": "17cs42syllabus.json"
+      },
+      {
+        "subj": "DESIGN AND ANALYSIS OF ALGORITHMS",
+        "subcode": "17CS43",
+        "subjparams": "17ae43syllabus.json"
+      },
+      {
+        "subj": "MICRO-PROCESSORS AND  MICRO- CONTROLLERS",
+        "subcode": "17CS44",
+        "subjparams": "17me44syllabus.json"
+      },
+      {
+        "subj": "SOFTWARE ENGINEERING",
+        "subcode": "17CS45",
+        "subjparams": "17me45a45asyllabus.json"
+      },
+      {
+        "subj": "DATA COMMUNICATION",
+        "subcode": "17CS46",
+        "subjparams": "17me45b45bsyllabus.json"
+      },
+      {
+        "subj": "nnnn",
+        "subjcode": "17MEL48A",
+        "subjparams": ""
+      },
+      {
+        "subj": "nnnn",
+        "subjcode": "17MEL48B",
+        "subjparams": ""
+      }
+    ]
+  }
+]
