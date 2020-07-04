@@ -14,5 +14,15 @@
       "m5desc": "Counters:\n Decade Counters, Presettable Counters, Counter Design as a Synthesis problem, A Digital Clock, Counter Design using HDL.\n\n D/A Conversion and A/D Conversion:\n Variable, Resistor Networks, Binary Ladders, D/A Converters, D/A Accuracy and Resolution, A/D ConverterSimultaneous Conversion, A/D Converter-Counter Method, Continuous A/D Conversion, A/D Techniques, Dual-slope A/D Conversion, A/D Accuracy and Resolution. ",
       "descname": "Prescribed text books",
       "descdata": "Text Books:\n 1. Anil K Maini, Varsha Agarwal: Electronic Devices and Circuits, Wiley, 2012.\n 2. Donald P Leach, Albert Paul Malvino & Goutam Saha: Digital Principles and Applications, 8th Edition, Tata McGraw Hill, 2015\n\n Reference Books:\n 1. Stephen Brown, Zvonko Vranesic: Fundamentals of Digital Logic Design with VHDL, 2nd Edition, Tata McGraw Hill, 2005.\n 2. R D Sudhaker Samuel: Illustrative Approach to Logic Design, Sanguine-Pearson, 2010.\n 3. M Morris Mano: Digital Logic and Computer Design, 10th Edition, Pearson, 2008.",
-      "__v": 0
+              "descname": "Prescribed Text books",
+        "descdata": "Text Books:\n1. B. S. Grewal, Higher Engineering Mathematics, Khanna publishers, 42nd edition, 2013.\n2. B.V. Ramana Higher Engineering Mathematics Tata McGraw-Hill,2006.\n\nReference Books:\n1. N. P. Bali and Manish Goyal, A text book of Engineering mathematics , Laxmi publications, latestedition.\n2. Kreyszig, Advanced Engineering Mathematics  - 9th edition, Wiley.\n3. H. K Dass and Er. Rajnish Verma ,Higher Engineering Mathematics, S. Chand, 1st ed.",
+        "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat31notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat31qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat31qb.json"
   }]
