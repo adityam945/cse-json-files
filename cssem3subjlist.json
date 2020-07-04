@@ -1,0 +1,52 @@
+[
+  {
+    "semno": "Semester 3",
+    "branchname": "Computer Science Engineering",
+    "subjno": "6",
+    "labno": "2",
+    "screenname": "SubjectDetails",
+    "url": "https://adityam945.github.io/aero-json-files/",
+    "subjdata": [
+      {
+        "subj": "Engineering Mathematics-III",
+        "subjcode": "17MAT31",
+        "subjparams": "17mat31syllabus.json"
+      },
+      {
+        "subj": "ANALOG AND DIGITAL ELECTRONICS",
+        "subcode": "17CS32",
+        "subjparams": "17cs32syllabus.json"
+      },
+      {
+        "subj3": "DATA STRUCTURES AND APPLICATIONS",
+        "sub3code": "17CS33",
+        "subjparams": "17ae33syllabus.json"
+      },
+      {
+        "subj4": "COMPUTER ORGANIZATION",
+        "sub4code": "17CS34",
+        "subjparams": "17me34syllabus.json"
+      },
+      {
+        "subj5": "UNIX AND SHELL PROGRAMMING",
+        "sub5code": "17CS35",
+        "subjparams": "17me35a45asyllabus.json"
+      },
+      {
+        "subj6": "DISCRETE MATHEMATICAL STRUCTURES",
+        "sub6code": "17CS36",
+        "subjparams": "17me35b45bsyllabus.json"
+      },
+      {
+        "subj": "FOUNDRY AND FORGING LAB",
+        "subjcode": "17MEL38A",
+        "subjparams": ""
+      },
+      {
+        "subj": "MACHINE SHOP",
+        "subjcode": "17MEL38B",
+        "subjparams": ""
+      }
+    ]
+  }
+]
