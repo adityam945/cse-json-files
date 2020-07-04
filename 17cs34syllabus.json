@@ -1,0 +1,18 @@
+ [ {
+      "_id": "5ed74cef3fe12440e0152b4e",
+      "subcode": "17CS34",
+      "subname": "COMPUTER ORGANIZATION ",
+      "m1": "Module 1",
+      "m1desc": "Basic Structure of Computers:\n Basic Operational Concepts, Bus Structures, Performance – Processor Clock, Basic Performance Equation, Clock Rate, Performance Measurement.\n\n Machine Instructions and Programs:\n Memory Location and Addresses, Memory Operations, Instructions and Instruction Sequencing, Addressing Modes, Assembly Language, Basic Input and Output Operations, Stacks and Queues, Subroutines, Additional Instructions, Encoding of Machine Instructions ",
+      "m2": "Module 2",
+      "m2desc": "Input/Output Organization:\n Accessing I/O Devices, Interrupts – Interrupt Hardware, Enabling and Disabling Interrupts, Handling Multiple Devices, Controlling Device Requests, Exceptions, Direct Memory Access, Buses Interface Circuits, Standard I/O Interfaces – PCI Bus, SCSI Bus, USB. .",
+      "m3": "Module 3",
+      "m3desc": "Memory System:\n  Basic Concepts, Semiconductor RAM Memories, Read Only Memories, Speed, Size, and Cost, Cache Memories – Mapping Functions, Replacement Algorithms, Performance Considerations, Virtual Memories, Secondary Storage.     ",
+      "m4": "Module 4",
+      "m4desc": "Arithmetic: \n Numbers, Arithmetic Operations and Characters, Addition and Subtraction of Signed Numbers, Design of Fast Adders, Multiplication of Positive Numbers, Signed Operand Multiplication, Fast Multiplication, Integer Division, Floating-point Numbers and Operations. ",
+      "m5": "Module 5",
+      "m5desc": "Basic Processing Unit:\n Some Fundamental Concepts, Execution of a Complete Instruction, Multiple Bus Organization, Hard-wired Control, Micro programmed Control. \n\nPipelining, Embedded Systems and Large Computer Systems: \nBasic Concepts of pipelining, Examples of Embedded Systems, Processor chips for embedded applications, Simple Microcontroller, The structure of General-Purpose Multiprocessors. ",
+      "descname": "Prescribed text books",
+      "descdata": "Text  Books: \n1. Carl Hamacher, Zvonko Vranesic, Safwat Zaky: Computer Organization, 5th Edition, Tata McGraw Hill, 2002. (Listed topics only from Chapters 1, 2, 4, 5, 6, 7, 8, 9 and12) \n\nReference Books:\n  1. William Stallings: Computer Organization & Architecture, 9th Edition, Pearson, 2015. ",
+      "__v": 0
+  }]
