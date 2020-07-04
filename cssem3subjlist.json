@@ -30,12 +30,12 @@
       {
         "subj": "UNIX AND SHELL PROGRAMMING",
         "subcode": "17CS35",
-        "subjparams": "17cs35a45asyllabus.json"
+        "subjparams": "17cs35syllabus.json"
       },
       {
         "subj": "DISCRETE MATHEMATICAL STRUCTURES",
         "subcode": "17CS36",
-        "subjparams": "17cs35b45bsyllabus.json"
+        "subjparams": "17cs36syllabus.json"
       },
       {
         "subj": "FOUNDRY AND FORGING LAB",
