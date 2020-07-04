@@ -1,0 +1,18 @@
+[{
+      "_id": "5ed68b071aa3af4b9877ae70",
+      "subcode": "17CS33",
+      "subname": "DATA STRUCTURES AND APPLICATIONS",
+      "m1": "Module 1",
+      "m1desc": "Introduction:\n Data Structures, Classifications (Primitive & Non Primitive), Data structure Operations, Review of Arrays, Structures, Self-Referential Structures, and Unions. Pointers and Dynamic Memory Allocation Functions. Representation of Linear Arrays in Memory, Dynamically allocated arrays,\n\n Array Operations:\n Traversing, inserting, deleting, searching, and sorting. Multidimensional Arrays, Polynomials and Sparse Matrices.\n\n Strings:\n Basic Terminology, Storing, Operations and Pattern Matching algorithms. ",
+      "m2": "Module 2",
+      "m2desc": "Stacks:\n Definition, Stack Operations, Array Representation of Stacks, Stacks using Dynamic Arrays, Stack Applications: Polish notation, Infix to postfix conversion, evaluation of postfix expression,\n\n Recursion -\n Factorial, GCD, Fibonacci Sequence, Tower of Hanoi, Ackerman's function.\n\n Queues:\n Definition, Array Representation, Queue Operations, Circular Queues, Circular queues using Dynamic arrays, Dequeues, Priority Queues, A Mazing Problem. Multiple Stacks and Queues. ",
+      "m3": "Module 3",
+      "m3desc": "Linked Lists:\n Definition, Representation of linked lists in Memory, Memory allocation; Garbage Collection. Linked list operations: Traversing, Searching, Insertion, and Deletion. Doubly Linked lists, Circular linked lists, and header linked lists. Linked Stacks and Queues. Applications of Linked lists – Polynomials, Sparse matrix representation.",
+      "m4": "Module 4",
+      "m4desc": "Trees:\n Terminology, Binary Trees, Properties of Binary trees, Array and linked Representation of Binary Trees, Binary Tree Traversals - Inorder, postorder, preorder; Additional Binary tree operations. Threaded binary trees, Binary Search Trees – Definition, Insertion, Deletion, Traversal, Searching, Application of Trees-Evaluation of Expression, ",
+      "m5": "Module 5",
+      "m5desc": "Graphs:\n Definitions, Terminologies, Matrix and Adjacency List Representation Of Graphs, Elementary Graph operations, Traversal methods: Breadth First Search and Depth First Search.\n\n Sorting and Searching:\n Insertion Sort, Radix sort, Address Calculation Sort.\n\n Hashing:\n Hash Table organizations, Hashing Functions, Static and Dynamic Hashing.\n\n Files and Their Organization:\n Data Hierarchy, File Attributes, Text Files and Binary Files, Basic File Operations, File Organizations and Indexing",
+      "descname": "Pescribed text books",
+      "descdata": "Text Books:\n 1. Fundamentals of Data Structures in C - Ellis Horowitz and Sartaj Sahni, 2nd edition, Universities Press,2014\n 2. Data Structures - Seymour Lipschutz, Schaum's Outlines, Revised 1st edition, McGraw Hill, 2014\n\n Reference Books:\n 1. Data Structures: A Pseudo-code approach with C –Gilberg & Forouzan, 2nd edition, Cengage Learning,2014\n 2. Data Structures using C, , Reema Thareja, 3rd edition Oxford press, 2012\n 3. An Introduction to Data Structures with Applications- Jean-Paul Tremblay & Paul G. Sorenson, 2nd Edition, McGraw Hill, 2013\n 4. Data Structures using C - A M Tenenbaum, PHI, 1989\n 5. Data Structures and Program Design in C - Robert Kruse, 2nd edition, PHI, 1996    ",
+      "__v": 0
+  }]
