@@ -20,22 +20,22 @@
       {
         "subj": "DESIGN AND ANALYSIS OF ALGORITHMS",
         "subcode": "17CS43",
-        "subjparams": "17ae43syllabus.json"
+        "subjparams": "17cs43syllabus.json"
       },
       {
         "subj": "MICRO-PROCESSORS AND  MICRO- CONTROLLERS",
         "subcode": "17CS44",
-        "subjparams": "17me44syllabus.json"
+        "subjparams": "17cs44syllabus.json"
       },
       {
         "subj": "SOFTWARE ENGINEERING",
         "subcode": "17CS45",
-        "subjparams": "17me45a45asyllabus.json"
+        "subjparams": "17cs45syllabus.json"
       },
       {
         "subj": "DATA COMMUNICATION",
         "subcode": "17CS46",
-        "subjparams": "17me45b45bsyllabus.json"
+        "subjparams": "17cs46syllabus.json"
       },
       {
         "subj": "nnnn",
