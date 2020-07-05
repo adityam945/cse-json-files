@@ -14,5 +14,13 @@
     "m5desc": "Agile Software Development:\n Coping with Change (Sec 2.3), The Agile Manifesto: Values and Principles. Agile methods: SCRUM (Ref “The SCRUM Primer, Ver 2.0”) and Extreme Programming (Sec 3.3). Plan-driven and agile development (Sec 3.2). Agile project management (Sec 3.4),  Scaling agile methods (Sec 3.5):  ",
     "descname": "Prescribed text books",
     "descdata": "Text  Books: \n 1. Ian Sommerville: Software Engineering, 9th Edition, Pearson Education, 2012. (Listed topics only from Chapters 1,2,3,4, 5, 7, 8, 9, 23, and 24) \n 2. The SCRUM Primer, Ver 2.0, http://www.goodagile.com/scrumprimer/scrumprimer20.pdf \n\n  Reference Books: \n 1. Roger S. Pressman: Software Engineering-A Practitioners approach, 7th Edition, Tata McGraw Hill. \n 2. Pankaj Jalote: An Integrated Approach to Software Engineering, Wiley India \n\n Web Reference for eBooks on Agile:\n 1. http://agilemanifesto.org/ \n 2. http://www.jamesshore.com/Agile-Book/ ",
-    "__v": 0
+            "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat31notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat31qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat31qb.json"
   }]
