@@ -14,5 +14,13 @@
     "m5desc": "Backtracking: \n General method (T2:7.1), N-Queens problem (T1:12.1), Sum of subsets problem (T1:12.1), Graph coloring (T2:7.4), Hamiltonian cycles (T2:7.5). \n\n Branch and Bound: \nAssignment Problem, Travelling Sales Person problem (T1:12.2), \n\n 0/1 Knapsack problem (T2:8.2, T1:12.2): \n LC Branch and Bound solution (T2:8.2), FIFO Branch and Bound solution (T2:8.2). \n\n NP-Complete and NP-Hard problems: \nBasic concepts, non-deterministic algorithms, P, NP, NP-Complete, and NP-Hard classes (T2:11.1).     ",
     "descname": "Prescribed text books",
     "descdata": "Text  Books: \nT1. Introduction to the Design and Analysis of Algorithms, Anany Levitin:, 2rd Edition, 2009. Pearson. \n T2. Computer Algorithms/C++, Ellis Horowitz, Satraj Sahni and Rajasekaran, 2nd Edition, 2014, Universities Press  \n\nReference Books:\n 1. Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronal L. Rivest, Clifford Stein, 3rd Edition, PHI \n 2. Design and Analysis of Algorithms , S. Sridhar, Oxford (Higher Education) ",
-    "__v": 0
+            "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat31notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat31qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat31qb.json"
   }]
