@@ -14,5 +14,13 @@
     "m5desc": "Introduction to the ARM Instruction Set : \n Data Processing Instructions , Branch Instructions, Software Interrupt Instructions, Program Status Register Instructions, Coprocessor Instructions, Loading Constants, Simple programming exercises. ",
     "descname": "Prescribed text books",
     "descdata": "Text  Books:\n 1. Muhammad Ali Mazidi, Janice Gillispie Mazidi, Danny Causey, The x86 PC Assembly Language Design and Interfacing, 5th Edition, Pearson, 2013. \n   2. ARM system developers guide, Andrew N Sloss, Dominic Symes and Chris Wright, Elsevier,Morgan Kaufman publishers, 2008.\n\n Reference Books:\n 1. Douglas V. Hall: Microprocessors and Interfacing, Revised 2nd Edition, TMH, 2006. \n 2. K. Udaya Kumar & B.S. Umashankar : Advanced Microprocessors & IBM-PC Assembly Language Programming, TMH 2003. \n 3. Ayala : The 8086 Microprocessor: programming and interfacing - 1st edition, Cengage Learning \n 4. The Definitive Guide to the ARM Cortex-M3, by Joseph Yiu, 2nd Edition , Newnes, 2009 \n 5. The Insider’s Guide to the ARM7 based microcontrollers, Hitex Ltd.,1st edition,  2005 \n  6. ARM System-on-Chip Architecture, Steve Furber, Second Edition, Pearson, 2015 \n 7. Architecture, Programming and Interfacing of Low power Processors- ARM7, Cortex-M and MSP430,  Lyla B Das  Cengage Learning, 1st  Edition",
-    "__v": 0
+        "notesurl": "https://adityam945.github.io/cse-json-files/",
+        "notesscreenname": "NotesListFile",
+        "notesscreenparams": "17mat31notes.json",
+        "qpscreentype": "QPaperListFile",
+        "qpurl": "https://adityam945.github.io/cse-json-files/",
+        "qpscreenparams": "17mat31qp.json",
+        "qbscreentype": "QBankListFile",
+        "qburl": "https://adityam945.github.io/cse-json-files/",
+        "qbscreenparams": "17mat31qb.json"
   }]
