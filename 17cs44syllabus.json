@@ -1,0 +1,18 @@
+ [{
+    "_id": "5ed78a5b1177e61034f1db23",
+    "subcode": "17CS44",
+    "subname": "MICRO-PROCESSORS AND  MICRO- CONTROLLERS ",
+    "m1": "Module 1",
+    "m1desc": "The x86 microprocessor:\n Brief history of the x86 family, Inside the 8088/86, Introduction to assembly programming, Introduction to Program Segments, The Stack, Flag register, x86 Addressing Modes. \n\nAssembly language programming:\n Directives & a Sample Program, Assemble, Link & Run a program, More Sample programs, Control Transfer Instructions, Data Types and Data Definition, Full Segment Definition, Flowcharts and Pseudo code. ",
+    "m2": "Module 2",
+    "m2desc": "x86: \n Instructions sets description, \n\n Arithmetic and logic instructions and programs: \n Unsigned Addition and Subtraction, Unsigned Multiplication and Division, Logic Instructions, BCD and ASCII conversion, Rotate Instructions.\n\n  INT 21H  and INT 10H Programming : \n Bios INT 10H Programming , DOS Interrupt 21H.  8088/86 Interrupts, x86 PC and Interrupt Assignment",
+    "m3": "Module 3",
+    "m3desc": "Signed Numbers and Strings: \n Signed number Arithmetic Operations, String operations. \n\n Memory and Memory interfacing:\n Memory address decoding, data integrity in RAM and ROM, 16-bit memory interfacing. \n\n 8255 I/O programming:\n I/O addresses MAP of x86 PC’s, programming and interfacing the 8255.   ",
+    "m4": "Module 4",
+    "m4desc": "Microprocessors versus Microcontrollers, ARM Embedded Systems :\nThe RISC design philosophy, The ARM Design Philosophy, Embedded System Hardware, Embedded System Software, \n\n ARM Processor Fundamentals : \n Registers , Current Program Status Register , Pipeline, Exceptions, Interrupts, and the Vector Table , Core Extensions ",
+    "m5": "Module 5",
+    "m5desc": "Introduction to the ARM Instruction Set : \n Data Processing Instructions , Branch Instructions, Software Interrupt Instructions, Program Status Register Instructions, Coprocessor Instructions, Loading Constants, Simple programming exercises. ",
+    "descname": "Prescribed text books",
+    "descdata": "Text  Books:\n 1. Muhammad Ali Mazidi, Janice Gillispie Mazidi, Danny Causey, The x86 PC Assembly Language Design and Interfacing, 5th Edition, Pearson, 2013. \n   2. ARM system developers guide, Andrew N Sloss, Dominic Symes and Chris Wright, Elsevier,Morgan Kaufman publishers, 2008.\n\n Reference Books:\n 1. Douglas V. Hall: Microprocessors and Interfacing, Revised 2nd Edition, TMH, 2006. \n 2. K. Udaya Kumar & B.S. Umashankar : Advanced Microprocessors & IBM-PC Assembly Language Programming, TMH 2003. \n 3. Ayala : The 8086 Microprocessor: programming and interfacing - 1st edition, Cengage Learning \n 4. The Definitive Guide to the ARM Cortex-M3, by Joseph Yiu, 2nd Edition , Newnes, 2009 \n 5. The Insider’s Guide to the ARM7 based microcontrollers, Hitex Ltd.,1st edition,  2005 \n  6. ARM System-on-Chip Architecture, Steve Furber, Second Edition, Pearson, 2015 \n 7. Architecture, Programming and Interfacing of Low power Processors- ARM7, Cortex-M and MSP430,  Lyla B Das  Cengage Learning, 1st  Edition",
+    "__v": 0
+  }]
