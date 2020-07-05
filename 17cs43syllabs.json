@@ -16,11 +16,11 @@
     "descdata": "Text  Books: \nT1. Introduction to the Design and Analysis of Algorithms, Anany Levitin:, 2rd Edition, 2009. Pearson. \n T2. Computer Algorithms/C++, Ellis Horowitz, Satraj Sahni and Rajasekaran, 2nd Edition, 2014, Universities Press  \n\nReference Books:\n 1. Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronal L. Rivest, Clifford Stein, 3rd Edition, PHI \n 2. Design and Analysis of Algorithms , S. Sridhar, Oxford (Higher Education) ",
             "notesurl": "https://adityam945.github.io/cse-json-files/",
         "notesscreenname": "NotesListFile",
-        "notesscreenparams": "17mat31notes.json",
+        "notesscreenparams": "17cs43notes.json",
         "qpscreentype": "QPaperListFile",
         "qpurl": "https://adityam945.github.io/cse-json-files/",
-        "qpscreenparams": "17mat31qp.json",
+        "qpscreenparams": "17cs43qp.json",
         "qbscreentype": "QBankListFile",
         "qburl": "https://adityam945.github.io/cse-json-files/",
-        "qbscreenparams": "17mat31qb.json"
+        "qbscreenparams": "17cs43qb.json"
   }]
