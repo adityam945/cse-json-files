@@ -8,14 +8,32 @@
         "semname": "Semester 3",
         "labno": "2",
         "subjno": "6",
-        "subj1": "1.Engineering Mathematics–III",
-        "subj2": "2.ANALOG AND DIGITAL ELECTRONICS",
-        "subj3": "3.DATA STRUCTURES AND APPLICATIONS",
-        "subj4": "4.COMPUTER ORGANIZATION",
-        "subj5": "5.UNIX AND SHELL PROGRAMMING",
-        "subj6": "6.DISCRETE MATHEMATICAL STRUCTURES",
-        "labname1": "1.ANALOG AND DIGITAL ELECTRONICS LABORATORY",
-        "labname2": "2.DATA STRUCTURES LABORATORY",
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics–III"
+          },
+          {
+            "subj": "2.ANALOG AND DIGITAL ELECTRONICS"
+          },
+          {
+            "subj": "3.DATA STRUCTURES AND APPLICATIONS"
+          },
+          {
+            "subj": "4.COMPUTER ORGANIZATION"
+          },
+          {
+            "subj": "5.UNIX AND SHELL PROGRAMMING"
+          },
+          {
+            "subj": "6.DISCRETE MATHEMATICAL STRUCTURES"
+          },
+          {
+            "subj": "1.ANALOG AND DIGITAL ELECTRONICS LABORATORY"
+          },
+          {
+            "subj": "2.DATA STRUCTURES LABORATORY"
+          }
+        ],
         "syllabusscreentype": "SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/cse-json-files/",
         "syllabusscreenparams": "cssem3subjlist.json",
@@ -35,14 +53,33 @@
         "semname": "Semester 4",
         "labno": "2",
         "subjno": "6",
-        "subj1": "1.Engineering Mathematics–4",
-        "subj2": "2.OBJECT ORIENTED CONCEPTS",
-        "subj3": "3.DESIGN AND ANALYSIS OF ALGORITHMS",
-        "subj4": "4.MICRO-PROCESSORS AND  MICRO- CONTROLLERS",
-        "subj5": "5.SOFTWARE ENGINEERING",
-        "subj6": "6.DATA COMMUNICATION",
-        "labname1": "1.DESIGN AND ANALYSIS OF ALGORITHM LABORATORY",
-        "labname2": "2.MICROPROCESSOR AND MICROCONTROLLER LABORATORY",
+        "subdata": [
+          {
+            "subj": "1.Engineering Mathematics–4"
+          },
+          {
+            "subj": "2.OBJECT ORIENTED CONCEPTS"
+          },
+          {
+            "subj": "3.DESIGN AND ANALYSIS OF ALGORITHMS"
+          },
+          {
+            "subj": "4.MICRO-PROCESSORS AND  MICRO- CONTROLLERS"
+          },
+          {
+            "subj": "5.SOFTWARE ENGINEERING"
+          },
+          {
+            "subj": "6.DATA COMMUNICATION"
+          },
+          {
+            "subj": "1.DESIGN AND ANALYSIS OF ALGORITHM LABORATORY"
+          },
+          {
+            "subj": "2.MICROPROCESSOR AND MICROCONTROLLER LABORATORY"
+          }
+        ],
+
         "syllabusscreentype": "SyllabusFile",
         "syllabusurl": "https://adityam945.github.io/cse-json-files/",
         "syllabusscreenparams": "cssem4subjlist.json",
